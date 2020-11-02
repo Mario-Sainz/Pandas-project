@@ -5,10 +5,15 @@
 Para llevar a cabo la limpieza del Dataframe, he seguido estos pasos:
 
 1- Quitar las columnas que prácticamente estan formadas por valor nulos (NaN).
+
 2- Eliminar todas las filas que únicamente contienen valores nulos (NaN).
+
 3- Deshacerme de las columnas que veo que no son útiles para llevar a cabo la demostración de mi hipòtesis.
+
 4- Cambiar los "NaN" por "-".
+
 5- Renombrar las columnas que tienen en el nombre un espacio, para que me permita trabajar con ellas.
+
 6- Creo un CSV con mi Dataframe limpio para poder importarlo desde otro Jupyter Notebook y trabajar con el.
 
 
